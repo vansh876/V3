@@ -7,7 +7,7 @@ logging.basicConfig(
     handlers=[logging.FileHandler('log.txt'),
               logging.StreamHandler()],
     level=logging.INFO
-)https://github.com/vansh876/V3
+)
 
 class Config(object):
 
