@@ -1,4 +1,4 @@
-﻿import subprocess, os, argparse, json, time, binascii, base64, requests, sys, ffmpy
+﻿import subprocess, os, argparse, json, time, binascii, base64, requests, sys
 import re
 from pywidevine.decrypt.wvdecrypt import WvDecrypt
 from pymediainfo import MediaInfo
